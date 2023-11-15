@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=buyaobilian1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buyaobilian1&theme=github&t=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buyaobilian1&theme=github&t)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buyaobilian1&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=buyaobilian1&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=buyaobilian1&theme=github)
